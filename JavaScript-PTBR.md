@@ -2,16 +2,16 @@
 Para dominar JavaScript, a linguagem mais versátil e procurada da atualidade, é preciso conhecer suas ferramentas. Tais como bibliotecas, frameworks, componentes, etc.
 
 ## Índice
-* [Herramientas](https://github.com/frontendchile/javascript/blob/master/JavaScript.md#herramientas)
+* [Ferramentas](https://github.com/frontendchile/javascript/blob/master/JavaScript.md#herramientas)
    * [Babel](https://github.com/frontendchile/javascript/blob/master/JavaScript.md#babel)
    * [Vue](https://github.com/frontendchile/javascript/blob/master/JavaScript.md#vue)
    * [Gulp](https://github.com/frontendchile/javascript/blob/master/JavaScript.md#gulp)
    * [Grunt](https://github.com/frontendchile/javascript/blob/master/JavaScript.md#grunt)
 * [Template](https://github.com/frontendchile/javascript/blob/master/JavaScript.md#template)
-* [¿Cómo contribuir?](https://github.com/frontendchile/javascript/blob/master/JavaScript.md#cómo-contribuir)
+* [Como contribuir?](https://github.com/frontendchile/javascript/blob/master/JavaScript.md#cómo-contribuir)
 * [Autor](https://github.com/frontendchile/javascript/blob/master/JavaScript.md#autor)
 
-## Herramientas
+## Ferramentas
 
 ### Babel
 * **Categoría:** Transcopilador
@@ -69,7 +69,7 @@ Para dominar JavaScript, a linguagem mais versátil e procurada da atualidade, �
     * **[Guía de ayuda 1](https://frontend.io/ayuda-1 "frontend.io")**
     * **[Guía de ayuda 2](https://ejemplo.io/guia-para-empezar "ejemplo.io")**
 
-## ¿Cómo contribuir?
+## Como contribuir?
 Si quieres comenzar a contribuir con este proyecto, dale clic al ícono que aparece en la parte superior derecha que dice: “Fork”. Al hacer fork del proyecto lo que estarás haciendo es un clone del repositorio dentro de tu cuenta de GitHub. Si ingresas a tu cuenta de GitHub, en la pantalla principal observarás que te aparecerá el repositorio “forkeado”.
 Luego haz los cambios que tengas que hacer (agregar o modificar el documento), y pulsa el botón en la parte superior que dice: "New pull request", luego dale clic a "Create pull request". Nos llegará la confirmación de un nuevo cambio y dependiendo si la aprobamos o no, estás listo!
 
